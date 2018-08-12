@@ -1,0 +1,3 @@
+[submodule "FiMap-iOS-Module"]
+	path = FiMap-iOS-Module
+	url = https://github.com/TKGeem/FiMap-iOS.git
